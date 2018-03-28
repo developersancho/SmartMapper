@@ -1,0 +1,62 @@
+[
+  {
+    "code": "34200214667",
+    "name": "Marmaray-Sirkeci Durağı",
+    "type": "Marmaray",
+    "postcode": "34110",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "neighborhood": "Hocapaşa",
+    "yCoor": "28.97796",
+    "xCoor": "41.01481",
+    "address": "Hoca Paşa Mah. İstasyon Arkası Sok. Fatih İstanbul"
+  },
+  {
+    "code": "34200214666",
+    "name": "Marmaray-Yenikapı Durağı",
+    "type": "Marmaray",
+    "postcode": "34096",
+    "city": "İstanbul",
+    "town": "Fatih",
+    "neighborhood": "Aksaray",
+    "yCoor": "28.95165",
+    "xCoor": "41.00494",
+    "address": "Aksaray Mah. Çuhacıoğlu Sok. Fatih İstanbul"
+  },
+  {
+    "code": "34200214669",
+    "name": "Marmaray-Ayrılıkçeşme Durağı",
+    "type": "Marmaray",
+    "postcode": "34718",
+    "city": "İstanbul",
+    "town": "Kadıköy",
+    "neighborhood": "Acıbadem",
+    "yCoor": "29.03019",
+    "xCoor": "41.00034",
+    "address": "Acıbadem Mah. Doktor Eyüp Aksoy Cad. Kadıköy İstanbul"
+  },
+  {
+    "code": "34200214668",
+    "name": "Marmaray-Üsküdar Durağı",
+    "type": "Marmaray",
+    "postcode": "34672",
+    "city": "İstanbul",
+    "town": "Üsküdar",
+    "neighborhood": "Mimar Sinan",
+    "yCoor": "29.01488",
+    "xCoor": "41.0259",
+    "address": "Mimar Sinan Mah. Hakimiyeti Milliye Cad. Üsküdar İstanbul"
+  },
+  {
+    "code": "34200214665",
+    "name": "Marmaray-Kazlıçeşme Durağı",
+    "type": "Marmaray",
+    "postcode": "34020",
+    "city": "İstanbul",
+    "town": "Zeytinburnu",
+    "neighborhood": "Kazlıçeşme",
+    "yCoor": "28.91697",
+    "xCoor": "40.99264",
+    "address": "Kazlıçeşme Mah. Zeytinburnu İstanbul"
+  }
+]
